@@ -1,0 +1,8 @@
+{
+  "name": "tez",
+  "description": "Short-video social media platform with a neon-accented dark interface, live streaming, creator analytics, and ad campaign studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
