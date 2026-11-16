@@ -1,16 +1,15 @@
+# Tez (Lumen) - Short Video & Creator Studio
+
+Ek modern short-video social media platform jo React, TypeScript, aur Tailwind CSS ke saath banaya gaya hai.
+
 ## Features
-- **Full-Screen Video Feed:** Smooth vertical video scrolling aur quick interactions.
-- **Live Stream & Messenger:** Real-time chat aur live room support.
-- **Creator Studio:** Easy video upload, filters, aur profile dashboard.
+- Short Video Feed aur Upload Editor
+- Live Stream Room aur Messenger
+- Creator Analytics aur Ad Studio
 
-## Tech Stack
-- React + TypeScript
-- Vite
-- Tailwind CSS
-
-## Local Setup
-1. Repository clone karein
-2. `npm install` run karein
-3. `.env.example` ko `.env` mein rename karke apni `GEMINI_API_KEY` daalein
-4. `npm run dev` se app start karein
+## Setup & Installation
+1. Repository ko clone karein
+2. npm install run karein
+3. .env file mein apni GEMINI_API_KEY add karein
+4. npm run dev se project start karein
 5.
